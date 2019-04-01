@@ -1,0 +1,124 @@
+/* Estilos formulario Login */
+
+.containerLogin{
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  background-image: url("http://www.hdcarwallpapers.com/walls/2018_z_performance_bmw_x5_m_4k_2-HD.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#formLogin{
+  color: white;
+  text-align: center;
+  display: inline-block;
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
+  margin-top: 10%;
+  padding: 30px;
+  margin-bottom: 140px;
+}
+.container_Logo{
+  display: inline-block;
+}
+#maxipublica_Logo{
+  max-width: 100%;
+  height: auto;
+}
+.tituloForm{
+  font-size: 40px;
+  color: white;
+}
+.uk-margin{
+  padding-bottom: 10px;
+}
+.uk-form-icon{
+  font-size: 22px;
+  padding-right: 10px;
+}
+.uk-input{
+  font-size: 17px;
+}
+.linkRegistro{
+  color: lightblue;
+}
+.uk-button{
+  font-size: 15px;
+  width: 100%;
+  padding: 10px 0 10px 0;
+  border-radius: 5px;
+  background-color: aqua;
+  color: black !important;
+}
+
+/* Estilos formulario Registro */
+
+.logoMaxiPublica{
+  max-width: 100%;
+  height: auto;
+}
+.containerLogo{
+  display: inline-block;
+}
+.uk-select{
+  padding-right: 124px !important;
+}
+.containerRegistro{
+  background-image: url("http://www.hdcarwallpapers.com/walls/2018_z_performance_bmw_x5_m_4k-HD.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: space-between;
+}
+.formRegistro{
+  display: inline-block;
+  padding: 20px 50px 25px 50px;
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
+  margin: 5% 80px 10% 0;
+  color: white;
+  text-align: center;
+}
+.tituloFormLogin{
+  color: white;
+}
+
+/* Estilos vista de Perfil */
+
+.profile{
+  background-image: url("https://maxipublica.com/images/fondo_dividido-03.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: lightblue;
+  display: flex;
+  justify-content: center;
+  padding: 70px 0 80px 0;
+}
+.containerProfile{
+  color: white;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
+  padding: 25px;
+}
+.containerInfo{
+  text-align: initial;
+}
+.userName{
+  color: white;
+}
+.buttonPerfil{
+  font-size: 15px;
+}
+
+/* Estilos vista de editar perfil */
+
+.profileEdit{
+  background-image: url("https://maxipublica.com/images/fondo_dividido-03.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: lightblue;
+  display: flex;
+  justify-content: center;
+  padding: 200px 0 180px 0;
+}
